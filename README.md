@@ -24,6 +24,7 @@
 دعم اتخاذ القرار في التسويق، اختيار الكتب المناسبة، وتحسين تجربة العملاء.
 ## Dashboard
 - <a href="https://github.com/aloitk999-beep/Data-Analysis_dashboard_PowerBI-DPro/blob/main/book.JPG">Book Rating</a>
-
+## Dataset
+- <a href="https://github.com/aloitk999-beep/Data-Analysis_dashboard_PowerBI-DPro/blob/main/Book1.xlsx"> Dataset</a>
 
 
