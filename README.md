@@ -1,2 +1,2 @@
-# Data-Analysis_dashboard_PowerBI-DPro
+# Data_Analysis_dashboard_PowerBI-DPro
 لقد حللت بيانات لمتجر الكتروني للكتب بإستخدام Power BI لتقييم أداء المتجر و فهم سلوك العملاء و تحديد الكتب الأكثر مبيعا
