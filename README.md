@@ -1,3 +1,4 @@
+![book](https://github.com/aloitk999-beep/Data-Analysis_dashboard_PowerBI-DPro/blob/main/book.JPG)
 # تحليل بصري لمتجر إلكتروني للكتب بإسخدام Power BI
 ## عن المشروع
 لقد حللت بيانات لمتجر الكتروني للكتب بإستخدام Power BI لتقييم أداء المتجر و فهم سلوك العملاء و تحديد الكتب الأكثر مبيعا و تقييمات المشتريين.
